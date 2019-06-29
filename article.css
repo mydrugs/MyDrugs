@@ -1,0 +1,18 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.article_img {
+    width: 15em;
+    height: 15em;
+    float: left;
+    margin: 1em;
+    border: 1px dotted #95a5a6;
+    object-fit: cover;
+}
+
+.article_description {
+    line-height: 1em;
+    font-size: 1em;
+}
